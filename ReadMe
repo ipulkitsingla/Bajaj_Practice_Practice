@@ -8,3 +8,21 @@
 5. single_number.java
 6. second_largest.java
 7. equillibrium.java
+
+## Practice 2 (Array & Strings - Easy)
+1. Move_Zeros.java
+2. Pivot_Index.java
+3. Maximum_Average_Subarray_I.java
+4. Reverse_String.java
+5. Reverse_Vowels.java
+6. IsAnagram.java
+7. isPalindrome.java
+
+## Practice 3 (Two Pointers & Arrays - Easy/Medium)
+1. find_content_children.java
+2. kids_with_candies.java
+3. leaders.java
+4. Intersection_of_Two_Arrays.java
+5. union_of_sorted_array.java
+6. union_of_unordered_array.java
+7. MajorityElement.java
