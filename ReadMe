@@ -81,3 +81,12 @@
 6. preorder.java
 7. inorder.java
 8. Binary_Tree_Postorder_Traversal.java
+
+## Practice 10 (Trees Mediums)
+1. level_order_traversal.java
+2. Binary_Tree_Right_Side_View.java
+3. Path_Sum.java
+4. Convert_Sorted_Array_to_BST.java
+5. Two_Sum_IV_BST.java
+6. Kth_Smallest_in_BST.java
+7. Validate_Binary_Search_Tree.java
