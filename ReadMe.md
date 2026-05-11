@@ -1,6 +1,6 @@
 # Practice Schedule
 
-## Practice 1 (Array Basics - Easy)
+## [Practice 1 (Array Basics - Easy)](./P-01)
 1. TwoSum.java
 2. Running_Sum_1D_Array.java
 3. contains_duplicate.java
@@ -9,7 +9,7 @@
 6. second_largest.java
 7. equillibrium.java
 
-## Practice 2 (Array & Strings - Easy)
+## [Practice 2 (Array & Strings - Easy)](./P-02)
 1. Move_Zeros.java
 2. Pivot_Index.java
 3. Maximum_Average_Subarray_I.java
@@ -18,7 +18,7 @@
 6. IsAnagram.java
 7. isPalindrome.java
 
-## Practice 3 (Two Pointers & Arrays - Easy/Medium)
+## [Practice 3 (Two Pointers & Arrays - Easy/Medium)](./P-03)
 1. find_content_children.java
 2. kids_with_candies.java
 3. leaders.java
@@ -27,7 +27,7 @@
 6. union_of_unordered_array.java
 7. MajorityElement.java
 
-## Practice 4 (Array Mediums & Matrix)
+## [Practice 4 (Array Mediums & Matrix)](./P-04)
 1. MajorityElementII.java
 2. ProductOfArrayExceptSelf.java
 3. SortColors.java
@@ -37,7 +37,7 @@
 7. Range_Sum_Query_Immutable.java
 8. Search_2D_Matrix.java
 
-## Practice 5 (Binary Search - Easy/Medium)
+## [Practice 5 (Binary Search - Easy/Medium)](./P-05)
 1. Binary_Search.java
 2. Search_Insert_Position.java
 3. First_Bad_Version.java
@@ -46,7 +46,7 @@
 6. Container_With_Most_Water.java
 7. PeakIndexInMountainArray.java
 
-## Practice 6 (Advanced Binary Search - Medium)
+## [Practice 6 (Advanced Binary Search - Medium)](./P-06)
 1. Peak_Element.java
 2. Find_Minimum_Rotated_Sorted_Array.java
 3. SearchInRotatedSortedArray.java
@@ -54,7 +54,7 @@
 5. Capacity_To_Ship_Within_Days.java
 6. Subarray_Sum_Equals_K.java
 
-## Practice 7 (Linked Lists - Easy/Medium)
+## [Practice 7 (Linked Lists - Easy/Medium)](./P-07)
 1. Reverse_Linked_List.java
 2. Middle_of_Linked_List.java
 3. merge_two_sorted_list.java
@@ -64,7 +64,7 @@
 7. Remove_Nth_Node_from_last.java
 8. AddTwoNumbers.java
 
-## Practice 8 (Strings Medium & Stacks)
+## [Practice 8 (Strings Medium & Stacks)](./P-08)
 1. HeyTrack_Needle.java
 2. length_longest_substring.java
 3. find_Anagrams.java
@@ -72,7 +72,7 @@
 5. valid_parenthesis.java
 6. Generate_Parenthesis.java
 
-## Practice 9 (Trees Basics - Easy)
+## [Practice 9 (Trees Basics - Easy)](./P-09)
 1. Maximum_Depth_Binary_Tree.java
 2. Same_tree.java
 3. Invert_tree.java
@@ -82,7 +82,7 @@
 7. inorder.java
 8. Binary_Tree_Postorder_Traversal.java
 
-## Practice 10 (Trees Mediums)
+## [Practice 10 (Trees Mediums)](./P-10)
 1. level_order_traversal.java
 2. Binary_Tree_Right_Side_View.java
 3. Path_Sum.java
@@ -91,7 +91,7 @@
 6. Kth_Smallest_in_BST.java
 7. Validate_Binary_Search_Tree.java
 
-## Practice 11 (Graph, DP, Math, Hard)
+## [Practice 11 (Graph, DP, Math, Hard)](./P-11)
 1. flood_fill_algorithm.java
 2. no_of_islands.java
 3. centre_of_star_graph.java
